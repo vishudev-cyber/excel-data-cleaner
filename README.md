@@ -27,7 +27,7 @@ python -m pip install -r requirements.txt
 Run the program:
 
 ```bash
-python main.py
+python automation.py
 ```
 
 The program generates sample Excel data and exports cleaned Excel and CSV files.
